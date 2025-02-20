@@ -1,6 +1,5 @@
-// Export the add function using ES module syntax
-export default {
+module.exports = {
     add: function(a, b) {
         return a + b;
     }
-}; 
+};
