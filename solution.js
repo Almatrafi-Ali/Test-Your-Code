@@ -1,5 +1,6 @@
-module.exports = {
-    add: function(a, b) {
-        return a + b;
-    }
-};
+// Don't use export or module.exports
+// Just define the add function directly
+
+function add(a, b) {
+    return a + b;
+}
