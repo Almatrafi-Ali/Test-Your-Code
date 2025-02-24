@@ -2,5 +2,5 @@
 // Just define the add function directly
 
 function add(a, b) {
-    return a + b;
+    return a * b;
 }
